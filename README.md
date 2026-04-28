@@ -43,6 +43,11 @@
 
 ---
 
+## 🖼️ Dashboard Preview
+![Dashboard](dashboard.png)
+
+----
+
 # 📬 Connect with Me
 - 💼 LinkedIn: [Sai Keerthana Yarraguntla](https://www.linkedin.com/in/sai-keerthana-yarraguntla)
 - 📧 Email: saikeerthanayarraguntla@gmail.com
