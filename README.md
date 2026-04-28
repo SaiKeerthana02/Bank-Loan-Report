@@ -44,7 +44,7 @@
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard]
+[Dashboard](Dashboard.png)
 
 ----
 
