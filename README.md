@@ -44,7 +44,7 @@
 ---
 
 ## 🖼️ Dashboard Preview
-[Bank Loan Report](Dashboard.png)
+![Bank Loan Report](Dashboard.png)
 
 ----
 
