@@ -46,7 +46,7 @@
 ## 📸 Dashboard Preview
 
 ### 📋 Summary
-![Summary](Dashboard.png)
+![Summary](Summary.png)
 
 ### 📊 Overview
 ![Overview](Overview.png)
