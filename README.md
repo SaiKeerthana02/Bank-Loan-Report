@@ -43,8 +43,16 @@
 
 ---
 
-## 🖼️ Dashboard Preview
-![Bank Loan Report](Dashboard.png)
+## 📸 Dashboard Preview
+
+### 📋 Summary
+![Summary](Dashboard.png)
+
+### 📊 Overview
+![Overview](Overview.png)
+
+### 📑 Details
+![Details](Details.png)
                   
 
 ----
